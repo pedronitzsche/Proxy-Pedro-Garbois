@@ -1,0 +1,5 @@
+proxy\Arquivo.class
+proxy\Repositorio.class
+proxy\IArquivo.class
+proxy\Usuario.class
+proxy\ArquivoProxy.class
